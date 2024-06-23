@@ -11,4 +11,4 @@ int acabou();
 int ehdirecao(char direcao);
 void fantasmas();
 int praondefantasmavai(int xatual, int yatual, int* xdestino, int* ydestino);
-void explodepipula();
+void explodepipulaimpl(int x, int y, int somax, int somay, int qtd);
